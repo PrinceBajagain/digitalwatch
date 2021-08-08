@@ -1,2 +1,3 @@
-             #Digital Watch
-    ##It's my first JavaScript project
+#Digital Watch
+
+##It's my first JavaScript project
