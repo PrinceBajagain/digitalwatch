@@ -1,5 +1,4 @@
-#
-OUTPUT :
+# OUTPUT :
 
 ---
 
@@ -7,6 +6,5 @@ OUTPUT :
 
 
 ---
-#
-This is the output which you will find after 
-executing the code present above😁
+# This is the output which you will find after 
+# executing the code present above😁
